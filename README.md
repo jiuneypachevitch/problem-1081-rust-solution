@@ -1,5 +1,7 @@
 # Problem 1081 resolution with Rust \o/
 
+### Recursive dfs algorithm on graph using approach with graph implementation using dynamic memory allocation and graph implementation using adjacency matrix.
+
 ### The solution was built using two approaches:
  - Graphs with dynamic memory allocation - see file `graph-with-dynamic-memory-allocation.rs`
  - Graphs using adjacency matrix - see file `graph-with-adjacency-matrix.rs`
