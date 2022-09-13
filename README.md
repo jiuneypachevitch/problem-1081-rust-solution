@@ -1,4 +1,4 @@
-# problem-1081-rust-solutions
+# Problem 1081 resolution with Rust \o/
 
 ### The solution was built using two approaches:
  - Graphs with dynamic memory allocation - see file `graph-with-dynamic-memory-allocation.rs`
@@ -8,7 +8,7 @@
 
 #### To execute: `./<filename>` without extension
 
-### problem description [https://www.beecrowd.com.br/judge/pt/problems/view/1081?origem=1](https://www.beecrowd.com.br/judge/pt/problems/view/1081?origem=1)
+### Problem description [https://www.beecrowd.com.br/judge/pt/problems/view/1081?origem=1](https://www.beecrowd.com.br/judge/pt/problems/view/1081?origem=1)
 
 ### input sample
 ```
