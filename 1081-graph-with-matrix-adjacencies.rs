@@ -130,7 +130,7 @@ fn main() -> () {
     let qtde_inputs = input.trim().parse::<i32>().unwrap_or(0);
     for i in 1..=qtde_inputs {
         let mut input_a = String::new();
-        // le o numero de vertices e arestas
+        // read the number of vertices and edges
         std::io::stdin()
             .read_line(&mut input_a)
             .expect("failed to read number o vertices and edges");
