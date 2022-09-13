@@ -3,9 +3,10 @@
 ## problem description [https://www.beecrowd.com.br/judge/pt/problems/view/1081?origem=1](https://www.beecrowd.com.br/judge/pt/problems/view/1081?origem=1)
 
 ### input sample
->> 2
->> 12 9
->> 0 1
+```
+2
+12 9
+0 1
 1 5
 5 6
 0 4
@@ -23,7 +24,7 @@
 6 8
 7 9
 9 10
-
+```
 ### output sample
 Caso 1:
   0-1 pathR(G,1)
