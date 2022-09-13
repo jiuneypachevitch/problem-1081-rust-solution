@@ -4,9 +4,9 @@
  - Graphs with dynamic memory allocation - see file `graph-with-dynamic-memory-allocation.rs`
  - Graphs using adjacency matrix - see file `graph-with-adjacency-matrix.rs`
 
-### To compile run `rustc <filename>`
+#### To compile: `rustc <filename>`
 
-### To run use `./<filename>` without extension
+#### To execute: `./<filename>` without extension
 
 ### problem description [https://www.beecrowd.com.br/judge/pt/problems/view/1081?origem=1](https://www.beecrowd.com.br/judge/pt/problems/view/1081?origem=1)
 
