@@ -4,9 +4,13 @@
  - Graphs with dynamic memory allocation - see file `graph-with-dynamic-memory-allocation.rs`
  - Graphs using adjacency matrix - see file `graph-with-adjacency-matrix.rs`
 
-## problem description [https://www.beecrowd.com.br/judge/pt/problems/view/1081?origem=1](https://www.beecrowd.com.br/judge/pt/problems/view/1081?origem=1)
+### To compile run `rustc <filename>`
 
-## input sample
+### To run use `./<filename>` without extension
+
+### problem description [https://www.beecrowd.com.br/judge/pt/problems/view/1081?origem=1](https://www.beecrowd.com.br/judge/pt/problems/view/1081?origem=1)
+
+### input sample
 ```
 2
 12 9
@@ -29,7 +33,7 @@
 7 9
 9 10
 ```
-## output sample
+### output sample
 ```
 Caso 1:
   0-1 pathR(G,1)
